@@ -2,13 +2,13 @@ This is your group repo for your final project for COGS108.
 
 This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Checkpoint #1 notebook). 
+Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
 
 This repository will be frozen on the final project due date. No further changes can be made after that time.
 
 Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
 
-Template Jupyter notebooks have been included. Be sure to change XXX to your group's group number in the file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XX is replaced by your group number):
+Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
 
 - `ProjectProposal_groupXXX.ipynb`
 - `DataCheckpoint_groupXXX.ipynb`
